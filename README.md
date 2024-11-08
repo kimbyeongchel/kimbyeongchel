@@ -1,9 +1,7 @@
 ## KimByeongChel
 
-<div>
-  <p>게임 개발자를 희망하고 있습니다</p>
-  <p>기술은 C#, Unity를 사용하며 C++, Unreal에도 관심이 있습니다</p>
-</div>
+>- 게임 개발자를 희망하고 있습니다
+>- 기술은 C#, Unity를 사용하며 C++, Unreal에도 관심이 있습니다
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zoxjvlfem021)](https://solved.ac/zoxjvlfem021/)-- >
 
